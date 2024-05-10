@@ -12,3 +12,9 @@
 ``` python
 print('Markdown is awesome!')
 ```
+
+## Task List Example
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline projects in my portfolio
+- [ ] Introduce myself to the world
